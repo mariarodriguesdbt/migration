@@ -1,0 +1,18 @@
+user:
+  outputs:
+    default:
+      account: OCQMSJH-DL09863
+      auth_type: password
+      client_session_keep_alive: false
+      connect_retries: 3
+      connect_timeout: 30
+      database: DEV
+      password: Micheal@19561963
+      retry_on_database_errors: true
+      role: null
+      schema: DEV
+      threads: 6
+      type: snowflake
+      user: MARIA
+      warehouse: COMPUTE_WH
+  target: default
